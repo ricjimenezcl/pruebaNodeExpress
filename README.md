@@ -1,5 +1,7 @@
 #Prueba Técnica: API de Gestión de Tareas (Node.js & Express)
 
+#descargar proyecto zip o clonar proyecto
+
 #al descomprimir proyecto, cargar dependencias ejecutando:
 
 npm install
